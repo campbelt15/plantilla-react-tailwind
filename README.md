@@ -1,1 +1,1 @@
-# once_ideal_web
+# Plantilla React-Vite con Tailwind
